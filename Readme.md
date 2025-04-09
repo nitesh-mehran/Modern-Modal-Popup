@@ -15,4 +15,4 @@ A simple and modern modal popup built using HTML, CSS, and JavaScript. This proj
 - `style.css` – Styling for the modal and page
 - `script.js` – Modal open/close functionality
 
-`
+
